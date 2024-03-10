@@ -1,0 +1,26 @@
+{
+"name": "44-kovbmw",
+"version": "1.0.0",
+"description": "Track the value of your cryptocurrency investments in real-time with this portfolio tracker.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/harryuz198/44Cryptocurrency-Portfolio-Tracker.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "harryuz198",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
